@@ -7,6 +7,7 @@
         printf("Address:%p and Value: %d\n", ptr, *ptr);
         ptr++;
     }
+    
     return 0;
 }
  
