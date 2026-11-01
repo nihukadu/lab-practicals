@@ -8,6 +8,7 @@ struct Student{
 
 int main(){
     struct Student a;
+    
     printf("Enter name, roll no., marks:");
     scanf("%s %d %f", a.name, &a.roll , &a.marks);
     
